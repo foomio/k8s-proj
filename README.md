@@ -8,5 +8,4 @@ I have deployemnt.yaml and service.yaml file and applied them with the following
 ```
 kubectl apply -f deployment.yaml
 kubectl apply -f service.yaml
-
 ```
