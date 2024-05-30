@@ -16,3 +16,9 @@ Then I created a deployemnt.yaml and service.yaml file and applied them with the
 kubectl apply -f deployment.yaml
 kubectl apply -f service.yaml
 ```
+
+Finally you can expose the service
+
+```
+minikube service hello-world
+```
