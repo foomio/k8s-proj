@@ -3,7 +3,7 @@
 ## Details
 Make sure you have minikube installed and Docker open!! 
 
-In this project, I have set up a Kubernetes cluster with minikube.
+In this project I have set up a Kubernetes cluster with minikube.
 
 First you must start the service with 
 ```
