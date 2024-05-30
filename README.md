@@ -22,3 +22,6 @@ Finally you can expose the service
 ```
 minikube service hello-world
 ```
+You should see this 
+
+![alt text](image.png)
