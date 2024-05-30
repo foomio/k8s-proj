@@ -25,3 +25,9 @@ minikube service hello-world
 You should see this 
 
 ![alt text](image.png)
+
+Stop it with the following command
+
+```
+minikue stop
+```
